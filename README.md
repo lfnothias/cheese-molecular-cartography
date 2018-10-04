@@ -1,6 +1,6 @@
 # cheese-molecular-cartography
 
-See some of molecular maps of cheese here:
+See molecular maps of a cheese's pH, and other molecular features below.
 
 <img src="ph_view.png"/>
 
